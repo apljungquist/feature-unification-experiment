@@ -1,0 +1,10 @@
+[package]
+name = "baz"
+version = "0.1.0"
+edition.workspace = true
+
+[features]
+"a" = []
+"b" = []
+"c" = []
+"d" = []
